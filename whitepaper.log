@@ -1,0 +1,24 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2023.2.7)  7 FEB 2023 20:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**//wsl.localhost/Ubuntu-22.04/home/gabe/latex/pandanite/whitepaper.tex
+(//wsl.localhost/Ubuntu-22.04/home/gabe/latex/pandanite/whitepaper.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+(C:\Users\Gabe Halo\AppData\Local\Programs\MiKTeX\tex/latex/elegantpaper\elegan
+tpaper.cls
+Document Class: elegantpaper 2022/04/09 v0.10 ElegantLaTeX Paper class
+
+(C:\Users\Gabe Halo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Gabe Halo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Gabe Halo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
